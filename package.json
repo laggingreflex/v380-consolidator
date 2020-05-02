@@ -1,0 +1,13 @@
+{
+  "name": "v380-consolidator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "bin": {
+    "v380": "lib/bin.js"
+  },
+  "repository": "laggingreflex/v380-consolidator",
+  "dependencies": {
+    "ffmpeg-simple": "^0.0.0"
+  }
+}
