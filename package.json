@@ -4,10 +4,18 @@
   "description": "",
   "main": "lib/index.js",
   "bin": {
+    "v380-consolidator": "lib/bin.js",
     "v380": "lib/bin.js"
   },
   "repository": "laggingreflex/v380-consolidator",
   "dependencies": {
-    "ffmpeg-simple": "^0.0.0"
+    "date-fns": "^2.12.0",
+    "enquire-simple": "^2.4.0",
+    "ffmpeg-simple": "^0.0.0",
+    "fs-extra": "^9.0.0",
+    "p-all": "^3.0.0",
+    "progress": "^2.0.3",
+    "undb": "^0.14.0",
+    "yargs": "^15.3.1"
   }
 }
