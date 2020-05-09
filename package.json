@@ -13,8 +13,10 @@
     "enquire-simple": "^2.4.0",
     "ffmpeg-simple": "^0.0.0",
     "fs-extra": "^9.0.0",
+    "lodash": "^4.17.15",
     "p-all": "^3.0.0",
-    "progress": "^2.0.3",
+    "pretty-bytes": "^5.3.0",
+    "pretty-ms": "^7.0.0",
     "subtitle": "^2.0.3",
     "undb": "^0.14.0",
     "yargs": "^15.3.1"
